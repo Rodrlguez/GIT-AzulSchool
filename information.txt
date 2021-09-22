@@ -1,1 +1,4 @@
-Hola me llamo juan, saludos
+merge recursive strategy
+hola, me llamo juan
+y vivo en puerto vallarta
+
