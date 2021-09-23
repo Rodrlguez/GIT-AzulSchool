@@ -1,7 +1,14 @@
 # Titulo de mi proyecto
- **Proyecto de GIT para los alumnos de Azul School**
+**Proyecto de GIT para los alumnos de Azul School**
 
-[//] :# (Listas enumeradas)
+# (Listas enumeradas)
+### Listas enumeradas
 
-1. index.html
-2. information.txt
+1. Index.html
+2. Information.txt
+
+### Listas sin enumerar
+# (Listas sin enumeradas)
+
+* **Index.html**
+* **Information.txt**
